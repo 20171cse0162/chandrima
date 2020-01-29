@@ -1,2 +1,2 @@
-# sampl
+# sample
 welcome
